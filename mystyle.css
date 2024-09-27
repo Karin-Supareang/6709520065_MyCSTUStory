@@ -441,3 +441,17 @@ I learn this one from MR.kevin Powell on his youtube channel "kevin Povell" plea
         
     }
 }
+
+#futuremainparapraph{
+    background-color: #519872;
+    width: 50%;
+    height: auto;
+    margin: 30px;
+    padding: 50px;
+    border-radius: 5px;
+    position: relative;
+    top: 150px;
+    left: 25%;
+    right: 25%;
+
+}
